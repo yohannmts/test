@@ -5,3 +5,4 @@
 <!-- git status -->
 <!-- git add * ou git add --all -->
  <!--git commit -m "le message"  -->
+ <!-- git reset -> inverse de git add -->
